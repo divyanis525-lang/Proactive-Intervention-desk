@@ -1,0 +1,43 @@
+[
+  {
+    "as_of_time": "2026-02-10T00:00:00Z",
+    "customer_id": "CUST_00150",
+    "inferred_state": "potential_fraud_or_takeover",
+    "confidence_band": "high",
+    "action": "COMPLIANCE_FRAUD_HOLD",
+    "action_subtype": "hard_stop_guardrail",
+    "hitl_status": "bypassed",
+    "notes": "Hard-stop guardrail keyword match -- routed straight to escalation, swarm/synthesis bypassed for this event.",
+    "citations": [
+      "EVT_000080"
+    ]
+  },
+  {
+    "as_of_time": "2026-03-06T00:00:00Z",
+    "customer_id": "CUST_00042",
+    "inferred_state": "new_child_life_event",
+    "confidence_band": "high",
+    "action": "PERSONALIZED_OFFER",
+    "action_subtype": "childcare_savings_or_insurance_offer",
+    "hitl_status": "bypassed",
+    "notes": "resolution=single_candidate; critique=['offer value $200 exceeds global autonomous cap $50']",
+    "citations": [
+      "EVT_000043",
+      "EVT_000044"
+    ]
+  },
+  {
+    "as_of_time": "2026-03-12T00:00:00Z",
+    "customer_id": "CUST_00099",
+    "inferred_state": "churn_risk",
+    "confidence_band": "high",
+    "action": "PROACTIVE_RETENTION_OUTREACH",
+    "action_subtype": null,
+    "hitl_status": "auto_approved",
+    "notes": "resolution=single_candidate",
+    "citations": [
+      "EVT_000067",
+      "EVT_000068"
+    ]
+  }
+]

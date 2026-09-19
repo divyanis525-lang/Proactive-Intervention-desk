@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# generated at runtime -- don't commit someone else's run output
+data/inferred_events.json
+data/traces.jsonl
+data/metrics.json
+data/hitl_audit_log.jsonl
+data/policy.json
+data/episodic/

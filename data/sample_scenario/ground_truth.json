@@ -1,0 +1,20 @@
+[
+  {
+    "customer_id": "CUST_00042",
+    "expected_state": "new_child_life_event",
+    "expected_action": "PERSONALIZED_OFFER",
+    "by": "2026-03-06T00:00:00+00:00"
+  },
+  {
+    "customer_id": "CUST_00099",
+    "expected_state": "churn_risk",
+    "expected_action": "PROACTIVE_RETENTION_OUTREACH",
+    "by": "2026-03-13T00:00:00+00:00"
+  },
+  {
+    "customer_id": "CUST_00150",
+    "expected_state": "potential_fraud_or_takeover",
+    "expected_action": "COMPLIANCE_FRAUD_HOLD",
+    "by": "2026-02-10T00:00:00+00:00"
+  }
+]

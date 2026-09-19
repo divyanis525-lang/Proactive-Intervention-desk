@@ -1,0 +1,25 @@
+{
+  "customers": [
+    {
+      "customer_id": "CUST_00042",
+      "name": "Synthetic Customer A",
+      "accounts": [
+        "ACC_CHK_001"
+      ]
+    },
+    {
+      "customer_id": "CUST_00099",
+      "name": "Synthetic Customer B",
+      "accounts": [
+        "ACC_CHK_002"
+      ]
+    },
+    {
+      "customer_id": "CUST_00150",
+      "name": "Synthetic Customer C",
+      "accounts": [
+        "ACC_CHK_003"
+      ]
+    }
+  ]
+}
