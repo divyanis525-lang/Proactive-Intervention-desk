@@ -16,7 +16,7 @@ Requires Python 3.9+ (uses only the standard library plus
 `opentelemetry-api`/`opentelemetry-sdk`, both pinned in
 `requirements.txt`). No external services, API keys, or network access
 are needed to run it — everything (guardrails, RAG, memory, tracing) is
-local/offline by design (see `research_log.md` R1/R5 for why).
+local/offline by design .
 
 Generated run artifacts (`data/inferred_events.json`, `data/traces.jsonl`,
 `data/metrics.json`, `data/hitl_audit_log.jsonl`, `data/episodic/`,
