@@ -1,6 +1,5 @@
 """
-Automated scoring harness (PDF section 8: brownie-points scoring harness;
-task doc's `eval.py` requirement).
+Automated scoring harness 
 
 Scores an inferred_events / checkpoints output against a ground_truth.json
 of the shape:
