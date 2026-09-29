@@ -1,6 +1,7 @@
 # Agentic Customer 360  Proactive Intervention Desk
 
-
+Links can be accessed through the file below:
+[Ambient_Ingtervention_Desk (2).pdf](https://github.com/user-attachments/files/32815328/Ambient_Ingtervention_Desk.2.pdf)
 
 ## Fresh clone on a new machine
 ```bash
