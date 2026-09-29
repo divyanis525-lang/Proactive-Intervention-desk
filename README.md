@@ -2,6 +2,8 @@
 
 Links can be accessed through the file below:
 [Ambient_Ingtervention_Desk (2).pdf](https://github.com/user-attachments/files/32815328/Ambient_Ingtervention_Desk.2.pdf)
+Below is the complete flowchart(a part is not visible in the report pdf):[Ambient Agent.drawio.pdf](https://github.com/user-attachments/files/32815387/Ambient.Agent.drawio.pdf)
+
 
 ## Fresh clone on a new machine
 ```bash
